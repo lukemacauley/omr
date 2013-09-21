@@ -14,4 +14,4 @@ doc/
 .DS_Store
 .idea
 
-/public/system
+/public/system # Ignore Paperclip uploaded files
