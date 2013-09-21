@@ -24,6 +24,8 @@ gem 'simple_form'
 
 gem 'turbolinks'
 
+gem "paperclip", "~> 3.0"
+
 gem 'jbuilder', '~> 1.2'
 
 group :doc do
