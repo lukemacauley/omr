@@ -1,3 +1,4 @@
+<% unless user_signed_in? %>
 <div class="hero-unit">
 	<h1>Welcome to my Ruby app!</h1>
 
@@ -5,3 +6,4 @@
 
 	<p><%= link_to "Sign Up Now!", new_user_registration_path, class: "btn btn-primary btn-large sign_up" %></p>
 </div>
+<% end %>
