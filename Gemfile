@@ -26,6 +26,8 @@ gem 'turbolinks'
 
 gem "paperclip", "~> 3.0"
 
+gem 'aws-sdk'
+
 gem 'jbuilder', '~> 1.2'
 
 group :doc do
