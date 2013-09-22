@@ -15,3 +15,8 @@ doc/
 .idea
 
 /public/system # Ignore Paperclip uploaded files
+
+#Ignore sample images
+/sampleimages
+
+public/system/pins/images/000/000
